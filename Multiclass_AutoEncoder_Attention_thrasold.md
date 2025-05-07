@@ -12,7 +12,7 @@ This project explores an **unsupervised anomaly detection model** using a **Vari
 - **Network Intrusion Detection (NIDS)**
 - Particularly suitable when **benign traffic is abundant**, but **attack patterns are rare or unknown**
 - Designed for real-time detection with minimal labeled data
-- Datasets: CSIC, CIC-IDS2018, custom CSVs like `Benign.csv`, `XSS.csv`, etc.
+- Datasets: CSIC, CIC-IoT2023, custom CSVs like `Benign.csv`, `XSS.csv`, etc.
 
 ---
 
