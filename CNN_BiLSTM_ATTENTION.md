@@ -106,11 +106,11 @@ with torch.no_grad():
 
 ---
 
-## ✍️ Author & Contact
+## Author & Contact
 
 - **Author**: Vivek K. (AI/ML + Cybersecurity Engineer)
 
 
 ---
 
-> ⚠️ Evaluate this model in your specific environment before full deployment.
+> Evaluate this model in your specific environment before full deployment.
